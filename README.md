@@ -1,6 +1,6 @@
 # Welcome to Accelebrate's Webinar on Angular and NgRx!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3BOertTkvWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Recorded Webinar Video](https://img.youtube.com/vi/3BOertTkvWQ/0.jpg)](https://www.youtube.com/watch?v=3BOertTkvWQ)
 
 In this repository is the code and slide deck for the Angular and NgRx webinar!
 
